@@ -1,4 +1,4 @@
-# Laravel 10 轉換值或輸入資料
+# Laravel 11 轉換值或輸入資料
 
 引入 surgiie 的 transformer 套件來擴增轉換值或輸入資料，用於清理和格式化。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/mqqWXIz.png)
+![](https://i.imgur.com/9DNI2x4.png)
 > 進行資訊的轉換
